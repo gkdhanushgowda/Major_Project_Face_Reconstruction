@@ -16,7 +16,7 @@ The main logic is in `celeba\_filter.ipynb`.
 
 \- `main.py` → Helper script (CUDA check)
 
-\- `subset\_celeba/` → Demo images (10–20 only for GitHub)
+\- `subset\_celeba/` → Demo images (10K images only for GitHub)
 
 
 
